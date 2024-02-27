@@ -1,8 +1,8 @@
-"""
+""""
 1. Qué palabra reservada se utiliza en lugar de animal (nombre de la clase) para acceder al atributo patas
 
 2. Qué palabra reservada hay que utilizar para crear un nuevo objeto
-"""
+"""""
 
 class animal:
     patas = 0
