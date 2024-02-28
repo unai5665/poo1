@@ -1,7 +1,7 @@
 from alumno import alumno
 
 def main():
-    daniel = alumno("daniel", 5)
+    daniel = alumno("daniel", 4)
     daniel.imprimir()
     daniel.promociona()
 
