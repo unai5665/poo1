@@ -1,14 +1,14 @@
 class Persona:
     def __init__(self, nombre, anios):
-        self.nombre = ""
-        self.anios = 0
+        self.nombre = nombre
+        self.anios = anios
 
     def imprimir(self):
         print(self.nombre,"tiene:",self.anios,"años")
 
 
     def cumpleanios(self):
-        self.edad += 1
+        self.anios += 1
         self.imprimir()
 
 if __name__ == "__main__":
