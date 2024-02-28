@@ -7,7 +7,7 @@ class alumno:
         print(self.nombre,"obtiene:",self.nota)
 
     def promociona(self):
-        if (self.nombre >= 5):
+        if (self.nota >= 5):
             print("promociona")
         else:
             print("va a ser que no") 
