@@ -1,5 +1,6 @@
-# Título
+# Programación Orientda a Objetos 1
 
-## H2 Subtítulo
-Información
-Hola Mundo Cruel
+## Ejercicios de introducción
+- Animal
+- Alumno
+- Persona
